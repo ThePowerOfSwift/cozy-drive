@@ -1464,7 +1464,7 @@
     dom-accessibility-api "^0.3.0"
     pretty-format "^25.1.0"
 
-"@testing-library/react@^10.0.1":
+"@testing-library/react@10.0.1":
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-10.0.1.tgz#4f5e2a8836257c5bd3df640b21d7bea5a0d83ead"
   integrity sha512-sMHWud2dcymOzq2AhEniICSijEwKeTiBX+K0y36FYNY7wH2t0SIP1o732Bf5dDY0jYoMC2hj2UJSVpZC/rDsWg==
@@ -5009,7 +5009,7 @@ cosmiconfig@^5.0.0:
     js-yaml "^3.13.1"
     parse-json "^4.0.0"
 
-cozy-authentication@^2.0.5:
+cozy-authentication@2.0.10:
   version "2.0.10"
   resolved "https://registry.yarnpkg.com/cozy-authentication/-/cozy-authentication-2.0.10.tgz#9a41c636231482d3656a7324416adbafff33a3c4"
   integrity sha512-23YfVj2hV3x6tV25k0L0B8P9hMKeG2CM2Dg9E5P3CqFl5ugZrSCit9QeXbQoKEXMTm4myLhb5PGIAqB8r2gvTw==
@@ -5248,7 +5248,7 @@ cozy-realtime@3.7.0, cozy-realtime@^3.7.0:
     cozy-device-helper "^1.9.2"
     minilog "https://github.com/cozy/minilog.git#master"
 
-cozy-scanner@^0.3.2:
+cozy-scanner@0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/cozy-scanner/-/cozy-scanner-0.3.2.tgz#ad8a01eecff23f560e5d18d3352b667dc92a9d3e"
   integrity sha512-sKeHpYPpVNehfXKifHr9szoV+YGa1EcSJ+PcJLZ1lRyXTAKdU3AWVLWH4bV/PgmzjICAGHK6Kw6TNRWDqIAoEQ==
@@ -5518,7 +5518,7 @@ css-loader@2.1.0:
     postcss-value-parser "^3.3.0"
     schema-utils "^1.0.0"
 
-css-mediaquery@^0.1.2:
+css-mediaquery@0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/css-mediaquery/-/css-mediaquery-0.1.2.tgz#6a2c37344928618631c54bd33cedd301da18bea0"
   integrity sha1-aiw3NEkoYYYxxUvTPO3TAdoYvqA=
@@ -10267,7 +10267,7 @@ jest@23.6.0:
     import-local "^1.0.0"
     jest-cli "^23.6.0"
 
-jest@^24.9.0:
+jest@24.9.0:
   version "24.9.0"
   resolved "https://registry.yarnpkg.com/jest/-/jest-24.9.0.tgz#987d290c05a08b52c56188c1002e368edb007171"
   integrity sha512-YvkBL1Zm7d2B1+h5fHEOdyjCG+sGMz4f8D86/0HiqJ6MB4MnDc8FgP5vdWsGnemOQro7lnYo8UakZ3+5A0jxGw==
@@ -14311,7 +14311,7 @@ react-event-listener@^0.6.0, react-event-listener@^0.6.2:
     prop-types "^15.6.0"
     warning "^4.0.1"
 
-react-hot-loader@^4.12.19, react-hot-loader@^4.3.11:
+react-hot-loader@4.12.20, react-hot-loader@^4.3.11:
   version "4.12.20"
   resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.12.20.tgz#c2c42362a7578e5c30357a5ff7afa680aa0bef8a"
   integrity sha512-lPlv1HVizi0lsi+UFACBJaydtRYILWkfHAC/lyCs6ZlAxlOZRQIfYHDqiGaRvL/GF7zyti+Qn9XpnDAUvdFA4A==
